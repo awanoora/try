@@ -1,0 +1,6 @@
+{
+  "name": "Suara Majlis",
+  "description": "Studio teks-ke-suara Bahasa Melayu dengan suara perempuan yang lemah lembut untuk ucapan rasmi dan pantun majlis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
